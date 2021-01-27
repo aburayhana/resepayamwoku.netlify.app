@@ -1,4 +1,4 @@
-baseURL = "https://resepayamwoku.netlify.app"
+baseURL = "https://resepayam-woku.netlify.app"
 languageCode = "en-us"
 title = "Resep AyamWoku"
 theme = "z"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://resepayamwoku.netlify.app"
+    homepage = "https://resepayam-woku.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
